@@ -8,4 +8,4 @@
 
 2. Run  
 
-    docker run reader -it  
+    docker run reader  
