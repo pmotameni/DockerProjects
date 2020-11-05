@@ -2,12 +2,10 @@
 
 ## Instruction 
 
-1. Build
+1. Build  
+
     $ docker build --tag reader .
 
-2. Run
-    docker run reader -it 
+2. Run  
 
-
-
-
+    docker run reader -it  
